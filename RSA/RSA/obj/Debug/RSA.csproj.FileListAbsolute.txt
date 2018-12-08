@@ -1,0 +1,7 @@
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab5\RSA\RSA\obj\Debug\RSA.csprojAssemblyReference.cache
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab5\RSA\RSA\obj\Debug\RSA.csproj.CoreCompileInputs.cache
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab5\RSA\RSA\bin\Debug\RSA.exe.config
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab5\RSA\RSA\bin\Debug\RSA.exe
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab5\RSA\RSA\bin\Debug\RSA.pdb
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab5\RSA\RSA\obj\Debug\RSA.exe
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab5\RSA\RSA\obj\Debug\RSA.pdb
